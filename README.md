@@ -30,7 +30,7 @@ The initial corpus / Large Language Model is one of the core process for the US 
 1) Doctrine:
    a)Dept. of Defense Deployment to Retrograde / Re-Depolyment (D2RR) See USG Compendium / DoD Dictionary for keywords to Doctrine (JP)
    b) Army G357 / G4 specifics - Force Management Schoole - Ft. Belvoir - Digital Library
-2) Standards / Models
+2) Standards / Models:
    a) JC3IEDM / MIM - various Institute for Defense Analyis PDFs - XML / JSON mind map extractions to a Lawrence Corr 7W Dimensional Meta Model (C7WDMM)
    b) C-BML (SISO Standard) - various papers / open source projects - also C7WDMM
    c) OAR - condensing C7WDMM to hierarchical whO / whAt / wheRe:
