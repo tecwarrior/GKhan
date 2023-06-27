@@ -28,7 +28,7 @@ A Hierarchical Attention Network (HAN) is a type of neural network that uses sta
 
 The initial corpus / Large Language Model is one of the core process for the US Military:  About 30 large, well structured PDF documents, along with key standards
 1) Doctrine:
-   a)Dept. of Defense Deployment to Retrograde / Re-Depolyment (D2RR) See USG Compendium / DoD Dictionary for keywords to Doctrine (JP)
+   a)Dept. of Defense Deployment to Retrograde / Re-Deployment (D2RR) See USG Compendium / DoD Dictionary for keywords to Doctrine (JP)
    b) Army G357 / G4 specifics - Force Management Schoole - Ft. Belvoir - Digital Library
 2) Standards / Models:
    a) JC3IEDM / MIM - various Institute for Defense Analyis PDFs - XML / JSON mind map extractions to a Lawrence Corr 7W Dimensional Meta Model (C7WDMM)
